@@ -1,4 +1,4 @@
-# 📊 EDA-for-Amazon-Top-50-Bestselling-Books-2009-2019
+# 📊📚 EDA-for-Amazon-Top-50-Bestselling-Books-2009-2019
 
 # 📈 2009-2019 Yılları Arasında En Çok Satan 50 Kitap Hakkında Öneriler
 
